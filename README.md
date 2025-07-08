@@ -3,9 +3,12 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=83A4D4&center=true&vCenter=true&width=500&lines=Software+Engineer+%F0%9F%92%BB;Full+Stack+Developer;React+%7C+Node.js+%7C+React+Native;Building+Amazing+User+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=83A4D4&center=true&vCenter=true&width=500&lines=Software+Engineer+%F0%9F%92%BB;Full+Stack+Developer;React+%7C+Node.js+%7C+React+Native;" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" />
+</div>
 <br/>
 
 <div align="center">
@@ -20,9 +23,9 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/Currently%20Working-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+        <img src="https://img.shields.io/badge/Focus-Open%20Source%20Contributions-28A745?style=for-the-badge&logo=github&logoColor=white" />
         <br/>
-        <sub>Product Maintenance & Optimization</sub>
+        <sub>Building & Contributing to Open Source</sub>
       </td>
       <td align="center" width="50%">
         <img src="https://img.shields.io/badge/Location-Thiruvananthapuram-28A745?style=for-the-badge&logo=google-maps&logoColor=white" />
@@ -93,7 +96,7 @@
       <td align="center" width="33.33%">
         <img src="https://img.shields.io/badge/2025-Software%20Engineer-FF6B6B?style=for-the-badge&logo=coffee&logoColor=white" />
         <br/>
-        <b>Buy Me A Coffee</b>
+        <b>Buy Me A Coffee (YC 19)</b>
         <br/>
         <sub>Product Optimization & User Experience</sub>
       </td>
