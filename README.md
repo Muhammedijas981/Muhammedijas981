@@ -7,7 +7,7 @@ Focused on building useful things, one line at a time.
 
 - 📍 Thiruvananthapuram, Kerala, India
 - 🗓️ Joined GitHub in 2021
-- 🧑‍💻 14 public repositories
+- 🧑‍💻 20 public repositories
 
 ---
 
