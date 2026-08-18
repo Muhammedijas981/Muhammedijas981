@@ -38,7 +38,6 @@ Top public repos by stars
 - [Credlyst](https://github.com/Muhammedijas981/Credlyst) — ⭐ 1
 - [GPAwizard](https://github.com/Muhammedijas981/GPAwizard) — ⭐ 1
 - [huntly-app](https://github.com/Muhammedijas981/huntly-app) — ⭐ 1
-- [Softnotions-internship](https://github.com/Muhammedijas981/Softnotions-internship) — ⭐ 1
 
 (These numbers are pulled from GitHub and represent a snapshot at the time of this update.)
 
