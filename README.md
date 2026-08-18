@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Muhammed Ijas
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ijas.vercel.app-blue)](https://ijas.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ijas.space-blue)](https://www.ijas.space/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Ijuijas5?style=social)](https://twitter.com/Ijuijas5)
 
 Focused on building useful things, one line at a time.
 
 - 📍 Thiruvananthapuram, Kerala, India
 - 🗓️ Joined GitHub in 2021
-- 🧑‍💻 20 public repositories
+- 🧑‍💻 29 public repositories
 
 ---
 
@@ -16,7 +16,7 @@ Focused on building useful things, one line at a time.
 ### [Alpadrive](https://github.com/Muhammedijas981/alpadrive) 
 > **Private Repository**  
 **Tech:** TypeScript  
-A modern drive/file management solution designed for flexibility and robust performance. Alpadrive is built to help you organize, store, and manage files efficiently, offering a seamless experience for developers and users alike.
+A modern drive/file management solution designed for flexibility and robust performance. Alpadrive is built to help you organize, store, and manage files efficiently, offering a seamless experienc[...]
 
 ---
 
@@ -26,10 +26,28 @@ A project focused on innovative solutions (details are private, but this project
 
 ---
 
+## 📊 GitHub stats (live snapshot)
+
+- ⭐ Total stars across public repos: 5
+- 🍴 Total forks across public repos: 0
+- ❗ Open issues across public repos: 4
+
+Top public repos by stars
+
+- [app](https://github.com/Muhammedijas981/app) — ⭐ 1
+- [Credlyst](https://github.com/Muhammedijas981/Credlyst) — ⭐ 1
+- [GPAwizard](https://github.com/Muhammedijas981/GPAwizard) — ⭐ 1
+- [huntly-app](https://github.com/Muhammedijas981/huntly-app) — ⭐ 1
+- [Softnotions-internship](https://github.com/Muhammedijas981/Softnotions-internship) — ⭐ 1
+
+(These numbers are pulled from GitHub and represent a snapshot at the time of this update.)
+
+---
+
 ## 📌 More About Me
 
 - 🛠️ I love building, learning, and collaborating on open-source projects.
-- 🌐 [Visit my website](https://ijas.vercel.app/)
+- 🌐 [Visit my website](https://www.ijas.space/)
 - 🐦 [Follow me on Twitter](https://twitter.com/Ijuijas5)
 
 ---
